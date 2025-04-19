@@ -7,7 +7,7 @@
 
 // code for cracking the Vigenere cipher
 // 
-// This code is an of the Vigenère cipher decryption process.
+// This code is an implementation of the Vigenère cipher decryption process.
 // It includes functions to find the key length, split the cipher text into substrings,
 // calculate the mutual index of coincidence (MIC) for each substring, and reconstruct
 // the plaintext from the cipher text using the determined shifts.
