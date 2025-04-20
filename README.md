@@ -65,6 +65,7 @@ To compile and run the program:
 ```bash
 g++ cracking_vigenere.cpp -o vigenere_cracker
 ./vigenere_cracker
+```
 
 - To test with a different ciphertext, simply replace the cipher_text string in main().
 
